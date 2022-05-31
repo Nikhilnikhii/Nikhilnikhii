@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Nikhilnikhii
-- 👀 I’m interested in developing
-- 🌱 I’m currently learning system design
-- 💞️ I’m looking to collaborate on android development
+- 👀 I’m interested in developing applications(web and mobile).
+0- 🌱 I’m currently learning how to design complex and scalable systems.
+- 💞️ I’m looking to collaborate on developing complex systems.
 - 📫 How to reach me nikhilkumarpasumarthi14@gmail.com
 
 <!---
